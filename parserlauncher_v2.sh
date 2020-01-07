@@ -25,3 +25,5 @@ sleep 5s
 python /home/laura/Scrivania/Mini-EUSO_Analisi/Software_analisi/LOG_parser/logp_photodiode_v2.py  $OUTPUTDIR/grep_photodiode.txt
 python /home/laura/Scrivania/Mini-EUSO_Analisi/Software_analisi/LOG_parser/logp_daynight_v2.py  $OUTPUTDIR/grep_daynight.txt
 python /home/laura/Scrivania/Mini-EUSO_Analisi/Software_analisi/LOG_parser/logp_hvpsstatus_v2.py  $OUTPUTDIR/grep_hvpsstatus.txt
+
+python /home/laura/Scrivania/Mini-EUSO_Analisi/Software_analisi/LOG_parser/timeduration.py   $WRKDIR/
